@@ -1,0 +1,3 @@
+#!/home/evgeny/git/Python/spring-2022/mkn_env/bin/python
+from numba.pycc import main
+main()
